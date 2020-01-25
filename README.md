@@ -1,0 +1,1 @@
+# RabbitMQ producer and consumer. It does not work for now.
