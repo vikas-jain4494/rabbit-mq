@@ -33,6 +33,6 @@
   </dependencies>
   
   <properties>
-        <amqp-client.version>3.6.6</amqp-client.version>
+        <amqp-client.version>4.8.0</amqp-client.version>
     </properties>
 </project>
